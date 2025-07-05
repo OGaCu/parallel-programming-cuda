@@ -1,6 +1,6 @@
 # CUDA Parallel Programming 
 
-> ⚠️ **Note:** Project files and implementations will be uploaded gradually—stay tuned for updates.
+> ⚠️ **Note: Project files and implementations will be uploaded gradually—stay tuned for updates.**
 
 
 This repository contains a series of CUDA-based GPU programming projects exploring fundamental concepts and optimization techniques in parallel computing. The implementations focuses on computational thinking, forms of parallelism, programming models, mapping computations to parallel hardware, efficient data structures, paradigms for efficient parallel algorithms, and application case studies on NVIDIA GPUs.
